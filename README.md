@@ -4,7 +4,15 @@
 
 The objective of this project is to predict customer churn for a telecommunications company using machine learning techniques.
 
-# ## Technologies Used:
+# Project workflow
+
+**Data Preprocessing**: Handling duplicates and missing values. Encoding categorical features into numerical form. 
+
+**Handling Imbalanced Data**: Since the dataset has an imbalance between churn and non-churn classes, the Synthetic Minority Oversampling Technique (SMOTETomek) is employed to balance the data
+
+
+
+# Technologies Used:
 
 ### Programming Language:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
