@@ -6,6 +6,8 @@ The objective of this project is to predict customer churn for a telecommunicati
 
 # Project workflow
 
+**Dataset**: The dataset used in this project is focused on customer churn prediction for a telecommunications company. It contains 7043 rows and 21 columns
+
 **Data Preprocessing**: Handling duplicates and missing values. Encoding categorical features into numerical form. 
 
 **Handling Imbalanced Data**: Since the dataset has an imbalance between churn and non-churn classes, the Synthetic Minority Oversampling Technique (SMOTETomek) is employed to balance the data
