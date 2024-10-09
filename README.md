@@ -12,7 +12,9 @@ The objective of this project is to predict customer churn for a telecommunicati
 
 **Handling Imbalanced Data**: Since the dataset has an imbalance between churn and non-churn classes, the Synthetic Minority Oversampling Technique (SMOTETomek) is employed to balance the data
 
+**Algorithms**: Multiple machine learning models, including Decision Tree, XGBoost, and AdaBoost, are used in this project.
 
+**Result**: The AdaBoost Classifier provided the highest accuracy among the models. This model achieved an accuracy of 79.73%.
 
 # Technologies Used:
 
